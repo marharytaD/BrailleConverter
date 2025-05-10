@@ -13,3 +13,4 @@ All original instructions and comments have been removed for copyright reasons.
 
 - Convert normal text into Braille
 - Convert Braille back to readable text
+- Only letters are supported. If signs or numbers are added, they will be returned as blank spaces — both in the Braille output and in the decoded text.
