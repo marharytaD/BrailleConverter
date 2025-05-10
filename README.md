@@ -11,6 +11,5 @@ All original instructions and comments have been removed for copyright reasons.
 
 ## Features
 
-- Convert plain text into Braille
+- Convert normal text into Braille
 - Convert Braille back to readable text
-- Support for letters, numbers, and special characters (depending on the task requirements)
